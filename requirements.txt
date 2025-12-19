@@ -1,0 +1,5 @@
+SpeechRecognition
+pygame
+gtts
+mistralai
+pydub
